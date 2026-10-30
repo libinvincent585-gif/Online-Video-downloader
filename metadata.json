@@ -1,0 +1,6 @@
+{
+  "name": "Online Video & Music Downloader",
+  "description": "Download videos and music from YouTube, Instagram, TikTok, Facebook, and X in 1080p, 720p, 360p, 3GP, Video-Only, and MP3 formats directly to your phone gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
